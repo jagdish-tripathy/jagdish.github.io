@@ -1,2 +1,2 @@
 # jagdish.github.io
-My website trial
+This is my personal website.
