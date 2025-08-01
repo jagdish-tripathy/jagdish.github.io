@@ -15,11 +15,17 @@ author_profile: true
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics.
 
 <details><summary>Abstract & links ▼</summary>
-
+<p>
 In household finance markets, inactive households can implicitly cross-subsidize active households who promptly respond to financial incentives. We assess the magnitude and distribution of cross-subsidies in the mortgage market. To do so, we build a model of household mortgage refinancing and structurally estimate it on rich administrative data on the stock of outstanding mortgages in the UK. We estimate sizeable cross-subsidies from relatively poorer households and those located in less-wealthy areas towards richer households and those located in wealthier areas. Our work highlights how the design of household finance markets can contribute to wealth inequality. 
-
-[Code + Public version of date](https://data.mendeley.com/datasets/hy29cy2v9f/1); [Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0304405X24000990-mmc1.pdf)
-
+</p>
+<ul>
+  <li>
+    <a href="https://data.mendeley.com/datasets/hy29cy2v9f/1" target="_blank">Code + Public version of data</a>
+  </li>
+  <li>
+    <a href="https://ars.els-cdn.com/content/image/1-s2.0-S0304405X24000990-mmc1.pdf" target="_blank">Online Appendix</a>
+  </li>
+</ul>
 </details>
 
 
@@ -29,10 +35,15 @@ In household finance markets, inactive households can implicitly cross-subsidize
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
 
 <details><summary>Abstract & links ▼</summary>
-
+<p>
 We analyze the distributional effects of macroprudential policy on mortgage cycles by exploiting the U.K. mortgage register and a 2014 15% limit imposed on lenders’ high loan-to-income (LTI) mortgages. Constrained lenders issue fewer and more expensive high-LTI mortgages, with stronger effects on low-income borrowers. Unconstrained lenders strongly substitute high-LTI loans in local areas with higher constrained lender presence, but not high-LTI loans to low-income borrowers—consistent with adverse selection problems—implying lower overall credit to low-income borrowers. Consistently, policy-affected areas experience lower house price growth postregulation and, following the Brexit referendum (negative aggregate shock), better house price growth and lower mortgage defaults for low-income borrowers.
-
-Previous version circulated as [Macroprudential policy and the housing market: Evidence from the UK](https://www.bankofengland.co.uk/working-paper/2020/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence-from-the-uk). 
+</p>
+<p>
+Previous version circulated as
+<a href="https://www.bankofengland.co.uk/working-paper/2020/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence-from-the-uk" target="_blank">
+Macroprudential policy and the housing market: Evidence from the UK
+</a>.
+</p>
 </details>
 
 
@@ -41,11 +52,17 @@ Previous version circulated as [Macroprudential policy and the housing market: E
 **Journal of International Economics**, 126:103350 (2020)  
 
 <details><summary>Abstract & links ▼</summary>
-
+<p>
 This paper studies the spillover of a macroprudential regulation in Spain to the Mexican financial system via Mexican subsidiaries of Spanish banks. The spillover caused a drop in the supply of household credit in Mexico. Municipalities with a higher exposure to Spanish subsidiaries experienced a larger contraction in household credit. These localized contractions caused a drop in macroeconomic activity in the local non-tradable sector. Estimates of the elasticity of loan demand by the non-tradable sector to changes in household credit supply range from 1.2–1.8. These results emphasize cross-border effects of regulations in the presence of global banks.
-
-[Online Appendix](https://drive.google.com/file/d/1waE_S2uf_AaHH9Jc4tvylVJcimOKr4QH/view); [Data-Guide + Code](https://drive.google.com/file/d/1JzzC1C_7f0l8bkrik19SCCH3BGkP7iMc/view)
-
+</p>
+<ul>
+  <li>
+    <a href="https://drive.google.com/file/d/1waE_S2uf_AaHH9Jc4tvylVJcimOKr4QH/view" target="_blank">Online Appendix</a>
+  </li>
+  <li>
+    <a href="https://drive.google.com/file/d/1JzzC1C_7f0l8bkrik19SCCH3BGkP7iMc/view" target="_blank">Data-Guide + Code</a>
+  </li>
+</ul>
 </details>
 
 ---
