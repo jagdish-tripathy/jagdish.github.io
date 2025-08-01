@@ -12,7 +12,7 @@ author_profile: true
 </div>
 
 <iframe 
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://jagdish.github.io/assets/files/jagdish-tripathy-cv.pdf"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://jagdishtripathy.com/assets/files/jagdish-tripathy-cv.pdf"
   width="100%" 
   height="800px" 
   frameborder="0">
