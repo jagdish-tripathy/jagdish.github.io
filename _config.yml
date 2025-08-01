@@ -109,7 +109,7 @@ tag_archive:
   type: liquid
   path: /tags/
 
-baseurl: "/jagdish-staging.github.io"
+baseurl: ""
 
 sass:
   sass_dir: _sass
