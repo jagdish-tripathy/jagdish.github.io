@@ -79,7 +79,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 </details>
 
 ### [Housing-Consumption Channel of Mortgage Demand](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand)  
-*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* — working paper available on request  
+*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
 
 <details><summary>Abstract ▼</summary>
 
