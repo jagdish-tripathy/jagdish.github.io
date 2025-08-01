@@ -121,8 +121,6 @@ collections:
   posts:
     output: false
 
-footer:
-  copyright: "© 2025 Jagdish Tripathy."
   
 #  - scope:
 #      path: ""
