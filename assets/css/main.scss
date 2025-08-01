@@ -1,0 +1,54 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Force larger avatar - overriding all MM styles */
+.sidebar .author__avatar {
+  display: table-cell !important;
+  vertical-align: top !important;
+  width: 200px !important;
+  height: 200px !important;
+}
+
+.sidebar .author__avatar img {
+  max-width: 200px !important;
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 15px !important; /* Less rounded, more square */
+  object-fit: cover !important;
+}
+
+/* Alternative: Make it completely square */
+.author__avatar img {
+  border-radius: 10px !important; /* Square with slight rounding */
+}
+
+/* Adjust spacing around the larger avatar */
+.sidebar .author__content {
+  display: none !important;
+  vertical-align: top !important;
+  padding-left: 25px !important;
+  padding-right: 25px !important;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .sidebar .author__avatar,
+  .sidebar .author__avatar img {
+    width: 160px !important;
+    height: 160px !important;
+  }
+}
+
+/* Change the site title (top-left header) */
+.masthead__inner-wrap .site-title {
+  font-size: 2.7em !important;
+  font-weight: 900 !important;
+  letter-spacing: -1px;
+  line-height: 1.1;
+}
+
+

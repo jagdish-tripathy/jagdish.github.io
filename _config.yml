@@ -1,0 +1,124 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Jagdish Tripathy"
+email: jagdish.tripathy@bankofengland.co.uk
+description: >-
+  Research Adviser at the Bank of England. Research on household finance, real-estate markets, banking and macro-prudential policy. Expertise in macroeconomics and causal inference.
+
+twitter_username: jagdishtrip
+github_username: jagdish-tripathy
+minimal_mistakes_skin: air
+timezone: Europe/London
+favicon_ico: "/assets/images/favicon-32x32.png"
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+permalink: /:categories/:title/
+paginate: 5
+paginate_path: /page:num/
+# timezone: # (already above)
+
+include:
+  - _pages
+  - assets
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-scholar
+  - jekyll-lunr-js-search
+
+author:
+  name   : "Jagdish Tripathy"
+  bio    : "Research Adviser, Bank of England"
+  avatar : "/assets/images/website_Jagdish_photo.jpg"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jagdish-tripathy-3a107b5/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jagdish-tripathy"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jagdishtrip"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://jagdishtripathy.com"
+
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jagdish-tripathy-3a107b5/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jagdish-tripathy"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jagdishtrip"
+
+# Main navigation bar (only Research and CV)
+#navigation:
+#  main:
+#    - title: "Research"
+#      url: /research/
+#    - title: "CV"
+#      url: /cv/
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+baseurl: "/jagdish-staging.github.io"
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  
+#  - scope:
+#      path: ""
+#    values:
+#      layout: single
+#      author_profile: true
+#      custom_css:
+#        - /assets/css/custom.css

@@ -1,0 +1,10 @@
+/* Make author avatar image larger everywhere */
+.author__avatar,
+.author__avatar img {
+  width: 480px !important;
+  height: 480px !important;
+}
+
+.author__avatar img {
+  object-fit: cover !important;   /* Ensures neat crop */
+}
