@@ -121,6 +121,8 @@ collections:
   posts:
     output: false
 
+# No search bar
+search: false
   
 #  - scope:
 #      path: ""
