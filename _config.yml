@@ -114,6 +114,11 @@ baseurl: ""
 sass:
   sass_dir: _sass
   style: compressed
+
+# to suppress blog posts. Add later.
+collections:
+  posts:
+    output: false
   
 #  - scope:
 #      path: ""
