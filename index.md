@@ -4,6 +4,8 @@ layout: home
 author_profile: true
 nav_exclude: true
 permalink: /
+entries_layout: none
+paginate: false
 ---
 
 I am a **Research Adviser** at the **Bank of England**, with a PhD in Economics and Finance from Universitat Pompeu Fabra, Barcelona. My main research topics are household finance, functioning of credit markets, banks and macroprudential regulation, with expertise in macroeconomics and causal inference.
