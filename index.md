@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-layout: single
+layout: home
 author_profile: true
 nav_exclude: true
 permalink: /
