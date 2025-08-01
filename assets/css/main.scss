@@ -57,14 +57,3 @@
   color: #003366 !important;         // darker text for contrast (optional)
 }
 
-/* Remove attribution to Minimal Mistakes */
-.page__footer-copyright {
-  display: none !important;
-}
-
-/*Remove RSS feed link */
-.footer__links a[href*="feed.xml"], 
-.footer__links .social-icons__link[href*="feed.xml"] {
-  display: none !important;
-}
-
