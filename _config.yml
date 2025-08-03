@@ -123,6 +123,8 @@ collections:
 
 # No search bar
 search: false
+
+google_analytics: G-RS3J7RGJQ0
   
 #  - scope:
 #      path: ""
