@@ -124,6 +124,13 @@ collections:
 # No search bar
 search: false
 
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-RS3J7RGJQ0"
+    anonymize_ip: false # default
+
 # google_analytics: G-RS3J7RGJQ0
   
 #  - scope:
