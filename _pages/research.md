@@ -12,7 +12,7 @@ author_profile: true
 
 **Journal of Financial Economics**, 158:103876 (2024)  
  
-🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics.
+🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
 <details><summary>Abstract & links ▼</summary>
 <p>
