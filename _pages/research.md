@@ -101,6 +101,15 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 </details>
 
+### [Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets)
+*with [João Cocco](https://www.london.edu/faculty-and-research/faculty-profiles/c/cocco-j-f) & [S. Lakshmi Naaraayanan](https://www.lakshmin.com)*  
+
+<details><summary>Abstract ▼</summary>
+
+We study the aggregate implications of reference dependent and loss averse preferences in the housing market. Motivated by micro evidence, we embed optimizing homeowners with these preferences into a dynamic search and matching equilibrium model with rich heterogeneity and realistic constraints. We assess the model using large and granular administrative data tracking buyers and sellers in the UK housing market; the predictions match regional and time variation in price growth and transaction volumes. The model shows that behavioral frictions in a decentralized market can link nominal quantities with real outcomes; and reveals that the distribution of potential nominal gains in the housing market is a key policy-relevant statistic.
+
+</details>
+
 ### [Housing-Consumption Channel of Mortgage Demand](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand)  
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
 
