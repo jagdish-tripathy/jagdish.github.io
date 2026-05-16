@@ -149,8 +149,10 @@ We use a unique dataset on the population of UK company directors and their firm
 
 <details markdown="1">
 <summary><h2 style="display:inline">AI Research ▼</h2></summary>
- 
+
+---
 *Research applying causal inference methodology to AI model internals and evaluation.*
+---
 
 ## Working Papers
 
