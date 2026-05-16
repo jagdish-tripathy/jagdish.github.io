@@ -21,6 +21,8 @@ In my research, I use structural models and causal inference to study financial 
  
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
+📰 **Media**: [Financial Times](https://www.ft.com/content/9c935553-23aa-49f7-869c-a701e21d322e)
+
 <details><summary>Abstract & links ▼</summary>
 <p>
 In household finance markets, inactive households can implicitly cross-subsidize active households who promptly respond to financial incentives. We assess the magnitude and distribution of cross-subsidies in the mortgage market. To do so, we build a model of household mortgage refinancing and structurally estimate it on rich administrative data on the stock of outstanding mortgages in the UK. We estimate sizeable cross-subsidies from relatively poorer households and those located in less-wealthy areas towards richer households and those located in wealthier areas. Our work highlights how the design of household finance markets can contribute to wealth inequality. 
@@ -58,6 +60,8 @@ Macroprudential policy and the housing market: Evidence from the UK
 
 **Journal of International Economics**, 126:103350 (2020)  
 
+📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/3311756/boe-paper-examines-regulation-spillover-effects?ref=search)
+
 <details><summary>Abstract & links ▼</summary>
 <p>
 This paper studies the spillover of a macroprudential regulation in Spain to the Mexican financial system via Mexican subsidiaries of Spanish banks. The spillover caused a drop in the supply of household credit in Mexico. Municipalities with a higher exposure to Spanish subsidiaries experienced a larger contraction in household credit. These localized contractions caused a drop in macroeconomic activity in the local non-tradable sector. Estimates of the elasticity of loan demand by the non-tradable sector to changes in household credit supply range from 1.2–1.8. These results emphasize cross-border effects of regulations in the presence of global banks.
@@ -70,6 +74,19 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
     <a href="https://drive.google.com/file/d/1JzzC1C_7f0l8bkrik19SCCH3BGkP7iMc/view" target="_blank">Data-Guide + Code</a>
   </li>
 </ul>
+</details>
+
+---
+## Handbook Chapters
+
+### [Distributional Consequences of Borrower-Based Macroprudential Tools](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools)
+*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc*
+Chapter in **Research Handbook of Macroprudential Policy**
+
+<details><summary>Abstract ▼</summary>
+This paper provides an overview of the cross-country evidence on the distributional consequences of macroprudential regulation of household leverage through borrower-based measures such as limits on loan-to-value and debt-service-to-income ratios. While these measures have been effective in breaking the self-enforcing loop between household leverage and house prices, they have a stronger impact on lending to borrowers requiring higher levels of leverage to get on the housing ladder (for instance younger or first-time buyers). Restricting household leverage has down-stream effects on job search, location choice, homeownership and susceptibility to income shocks. These measures have beneficial effects in terms of lower defaults and better house price dynamics during periods of economic distress. Looking ahead, further research is required on careful calibration of these measures, on adapting these measures to increased use of technology in financial intermediation and on the effects of these polices on the broader society via political outcomes and mental health. 
+</details>
+
 </details>
 
 ---
@@ -95,6 +112,10 @@ We quantify the consumption channel in mortgage demand according to which househ
 </details>
 
 ### [Housing Booms and Credit Misallocation](https://drive.google.com/file/d/1Z8KRAjF6pg2qF30UfDKYixm64LgTTY26/view)  
+
+
+📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banking/research/2482006/boe-paper-raises-risk-of-bubbly-growth-traps?ref=search)
+
 <details><summary>Abstract ▼</summary>
 
 This paper studies the effect of asset bubbles on economic growth in the presence of financial constraints and heterogeneous projects. I consider an economy with two sectors which differ in their productivity and level of financial constraints. In this framework, asset bubbles in credit markets raise interest rates and lower aggregate investment productivity by directing financial resources away from the sector with higher productivity. Further, they may lead to steady states with low investment productivity and welfare, creating bubbly growth-traps.
@@ -110,16 +131,6 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 <details><summary>Abstract ▼</summary>
 
 We use a unique dataset on the population of UK company directors and their firms to study a novel, unexplored territory for social interactions among firm managers: charities. The most central charities comprise of highly skilled directors, and firms associated with these directors manage up to 60% of total assets in the UK economy. We show that a firm whose director joins one of these star charities subsequently experiences faster growth and increased employment. These effects are stronger for younger and smaller firms, and for firms with younger directors. The key mechanism points to skill diffusion: joining a star charity improves the quality of the director's network of co-directors. Our results indicate a pecuniary benefit from associations with star charities via increased social capital.
-
-</details>
-
-### Distributional Consequences of Borrower-Based Macroprudential Tools
-*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc* — working paper available on request  
-Chapter in **Research Handbook of Macroprudential Policy**
-
-<details><summary>Abstract ▼</summary>
-This paper provides an overview of the cross-country evidence on the distributional consequences of macroprudential regulation of household leverage through borrower-based measures such as limits on loan-to-value and debt-service-to-income ratios. While these measures have been effective in breaking the self-enforcing loop between household leverage and house prices, they have a stronger impact on lending to borrowers requiring higher levels of leverage to get on the housing ladder (for instance younger or first-time buyers). Restricting household leverage has down-stream effects on job search, location choice, homeownership and susceptibility to income shocks. These measures have beneficial effects in terms of lower defaults and better house price dynamics during periods of economic distress. Looking ahead, further research is required on careful calibration of these measures, on adapting these measures to increased use of technology in financial intermediation and on the effects of these polices on the broader society via political outcomes and mental health. 
-</details>
 
 </details>
 
