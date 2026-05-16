@@ -77,7 +77,8 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
 </details>
 
 ---
-## Handbook Chapters
+
+## Handbook Chapters
 
 ### [Distributional Consequences of Borrower-Based Macroprudential Tools](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools)
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc*
