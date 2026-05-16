@@ -16,13 +16,13 @@
 title: "Jagdish Tripathy"
 email: jagdish.tripathy@bankofengland.co.uk
 description: >-
-  Research Adviser at the Bank of England. Research on household finance, real-estate markets, banking and macro-prudential policy. Expertise in macroeconomics and causal inference.
+  Senior Adviser at the Bank of England, with a PhD in Economics and Finance from Pompeu Fabra University (Barcelona) and BE in Bioengineering from Nanyang Technological Univeristy (Singapore). In my research, I use structural models and causal inference to study financial markets, household finance, and the economic impact of AI. I also use these methods to evaluate how AI systems behave in high-stakes domains.
 
 twitter_username: jagdishtrip
 github_username: jagdish-tripathy
 minimal_mistakes_skin: air
 timezone: Europe/London
-favicon_ico: "/assets/images/favicon-32x32.png"
+favicon_ico: /assets/images/favicon-32x32.png
 search: true
 
 # Build settings
