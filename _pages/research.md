@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+In my research, I use structural models and causal inference to study financial markets and household finance. I also use these methods to study AI adoption and evaluate how AI systems behave in high-stakes domains.
+
+---
+
+<details><summary><h2 style="display:inline">Economics & Finance ▼</h2></summary>
+
 ## Publications 
 
 ### [Refinancing Cross-Subsidies in the Mortgage Market](https://doi.org/10.1016/j.jfineco.2024.103876)
@@ -36,7 +42,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 
 <details><summary>Abstract & links ▼</summary>
 <p>
-We analyze the distributional effects of macroprudential policy on mortgage cycles by exploiting the U.K. mortgage register and a 2014 15% limit imposed on lenders’ high loan-to-income (LTI) mortgages. Constrained lenders issue fewer and more expensive high-LTI mortgages, with stronger effects on low-income borrowers. Unconstrained lenders strongly substitute high-LTI loans in local areas with higher constrained lender presence, but not high-LTI loans to low-income borrowers—consistent with adverse selection problems—implying lower overall credit to low-income borrowers. Consistently, policy-affected areas experience lower house price growth postregulation and, following the Brexit referendum (negative aggregate shock), better house price growth and lower mortgage defaults for low-income borrowers.
+We analyze the distributional effects of macroprudential policy on mortgage cycles by exploiting the U.K. mortgage register and a 2014 15% limit imposed on lenders' high loan-to-income (LTI) mortgages. Constrained lenders issue fewer and more expensive high-LTI mortgages, with stronger effects on low-income borrowers. Unconstrained lenders strongly substitute high-LTI loans in local areas with higher constrained lender presence, but not high-LTI loans to low-income borrowers—consistent with adverse selection problems—implying lower overall credit to low-income borrowers. Consistently, policy-affected areas experience lower house price growth postregulation and, following the Brexit referendum (negative aggregate shock), better house price growth and lower mortgage defaults for low-income borrowers.
 </p>
 <p>
 Previous version circulated as
@@ -83,7 +89,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 <details><summary>Abstract ▼</summary>
 
-We quantify the *consumption channel in mortgage demand according to which households borrow more in response to house price increases since housing and non-housing consumption are imperfect substitutes. To identify the consumption channel, we take a structural approach to mortgage demand and supply, exploiting exogenous variation in house price growth and a unique matched house price-mortgage data set. We feed our estimate of the elasticity of mortgage borrowing with respect to house prices of 0.82 into a counterfactual analysis of the general equilibrium of housing and mortgage markets. We find that without the consumption channel, mortgage borrowing in the UK would have increased by over 50\% less since the 1990s and house price growth would have been lower by 31%.
+We quantify the consumption channel in mortgage demand according to which households borrow more in response to house price increases since housing and non-housing consumption are imperfect substitutes. To identify the consumption channel, we take a structural approach to mortgage demand and supply, exploiting exogenous variation in house price growth and a unique matched house price-mortgage data set. We feed our estimate of the elasticity of mortgage borrowing with respect to house prices of 0.82 into a counterfactual analysis of the general equilibrium of housing and mortgage markets. We find that without the consumption channel, mortgage borrowing in the UK would have increased by over 50% less since the 1990s and house price growth would have been lower by 31%.
 
 </details>
 
@@ -94,7 +100,6 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 
 </details>
 
-
 ---
 
 ## Selected Work in Progress  
@@ -103,7 +108,7 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 *with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), Andrew Blake, [Angus Foulis](https://sites.google.com/site/angusfoulis), Andrew Haldane & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — working paper available on request    
 <details><summary>Abstract ▼</summary>
 
-We use a unique dataset on the population of UK company directors and their firms to study a novel, unexplored territory for social interactions among firm managers: charities. The most central charities comprise of highly skilled directors, and firms associated with these directors manage up to 60% of total assets in the UK economy. We show that a firm whose director joins one of these star charities subsequently experiences faster growth and increased employment. These effects are stronger for younger and smaller firms, and for firms with younger directors. The key mechanism points to skill diffusion: joining a star charity improves the quality of the director’s network of co-directors. Our results indicate a pecuniary benefit from associations with star charities via increased social capital.
+We use a unique dataset on the population of UK company directors and their firms to study a novel, unexplored territory for social interactions among firm managers: charities. The most central charities comprise of highly skilled directors, and firms associated with these directors manage up to 60% of total assets in the UK economy. We show that a firm whose director joins one of these star charities subsequently experiences faster growth and increased employment. These effects are stronger for younger and smaller firms, and for firms with younger directors. The key mechanism points to skill diffusion: joining a star charity improves the quality of the director's network of co-directors. Our results indicate a pecuniary benefit from associations with star charities via increased social capital.
 
 </details>
 
@@ -115,5 +120,26 @@ Chapter in **Research Handbook of Macroprudential Policy**
 This paper provides an overview of the cross-country evidence on the distributional consequences of macroprudential regulation of household leverage through borrower-based measures such as limits on loan-to-value and debt-service-to-income ratios. While these measures have been effective in breaking the self-enforcing loop between household leverage and house prices, they have a stronger impact on lending to borrowers requiring higher levels of leverage to get on the housing ladder (for instance younger or first-time buyers). Restricting household leverage has down-stream effects on job search, location choice, homeownership and susceptibility to income shocks. These measures have beneficial effects in terms of lower defaults and better house price dynamics during periods of economic distress. Looking ahead, further research is required on careful calibration of these measures, on adapting these measures to increased use of technology in financial intermediation and on the effects of these polices on the broader society via political outcomes and mental health. 
 </details>
 
+</details>
+
+---
+
+<details><summary><h2 style="display:inline">AI Research ▼</h2></summary>
+
+*Research applying causal inference methodology to AI model internals and evaluation.*
+
+## Working Papers
+
+### Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions
+`causal inference` `mechanistic interpretability` `LLM evaluation`
+
+*Manuscript under review — draft available on request*
+
+## Work in Progress
+
+### Measuring the Effect of AI Adoption on Firm Productivity using Microdata
+`causal inference` `AI adoption` `firm productivity`
+
+</details>
 
 
