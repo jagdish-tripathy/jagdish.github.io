@@ -87,8 +87,6 @@ Chapter in **Research Handbook of Macroprudential Policy**
 This paper provides an overview of the cross-country evidence on the distributional consequences of macroprudential regulation of household leverage through borrower-based measures such as limits on loan-to-value and debt-service-to-income ratios. While these measures have been effective in breaking the self-enforcing loop between household leverage and house prices, they have a stronger impact on lending to borrowers requiring higher levels of leverage to get on the housing ladder (for instance younger or first-time buyers). Restricting household leverage has down-stream effects on job search, location choice, homeownership and susceptibility to income shocks. These measures have beneficial effects in terms of lower defaults and better house price dynamics during periods of economic distress. Looking ahead, further research is required on careful calibration of these measures, on adapting these measures to increased use of technology in financial intermediation and on the effects of these polices on the broader society via political outcomes and mental health. 
 </details>
 
-</details>
-
 ---
 
 ## Working Papers
@@ -131,6 +129,8 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 <details><summary>Abstract ▼</summary>
 
 We use a unique dataset on the population of UK company directors and their firms to study a novel, unexplored territory for social interactions among firm managers: charities. The most central charities comprise of highly skilled directors, and firms associated with these directors manage up to 60% of total assets in the UK economy. We show that a firm whose director joins one of these star charities subsequently experiences faster growth and increased employment. These effects are stronger for younger and smaller firms, and for firms with younger directors. The key mechanism points to skill diffusion: joining a star charity improves the quality of the director's network of co-directors. Our results indicate a pecuniary benefit from associations with star charities via increased social capital.
+
+</details>
 
 </details>
 
