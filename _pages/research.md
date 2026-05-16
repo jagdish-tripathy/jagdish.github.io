@@ -9,8 +9,9 @@ In my research, I use structural models and causal inference to study financial 
 
 ---
 
-<details><summary><h2 style="display:inline">Economics & Finance ▼</h2></summary>
-
+<details markdown="1">
+<summary><h2 style="display:inline">Economics & Finance ▼</h2></summary>
+ 
 ## Publications 
 
 ### [Refinancing Cross-Subsidies in the Mortgage Market](https://doi.org/10.1016/j.jfineco.2024.103876)
@@ -124,8 +125,9 @@ This paper provides an overview of the cross-country evidence on the distributio
 
 ---
 
-<details><summary><h2 style="display:inline">AI Research ▼</h2></summary>
-
+<details markdown="1">
+<summary><h2 style="display:inline">AI Research ▼</h2></summary>
+ 
 *Research applying causal inference methodology to AI model internals and evaluation.*
 
 ## Working Papers
