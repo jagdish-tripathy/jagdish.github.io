@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 In my research, I use structural models and causal inference to study financial markets and household finance. I also use these methods to study AI adoption and evaluate how AI systems behave in high-stakes domains.
