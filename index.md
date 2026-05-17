@@ -15,8 +15,6 @@ I am co-organising a conference on **Transformative Artificial Intelligence (AI)
 
 I use this website to disseminate my research. All opinions and observations here are my own and not meant to represent those of the Bank of England.
 
-You can find my academic CV [here](https://www.dropbox.com/scl/fi/w6a1e54sduc6ag0raoyxq/JT-CV-for-Site.pdf?rlkey=itg8v7rh91e9n4hn5wdipidx1&dl=0).
-
 
 ---
 
