@@ -40,7 +40,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 
 
 ### Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK
-*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
+*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
 
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
 
@@ -87,7 +87,7 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
 
 ### [Distributional Consequences of Borrower-Based Macroprudential Tools](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools)
 
-*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)*
+*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)*
 
 
 Chapter in [Research Handbook of Macroprudential Policy](https://www.e-elgar.com/shop/gbp/research-handbook-of-macroprudential-policy-9781035306206.html?srsltid=AfmBOorGd5DPQ0RGWysqupdDrMn1QlbXYG-DNfWuED-RDgxu0g8birWh). [Bank of England](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools).
