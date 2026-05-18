@@ -15,14 +15,14 @@ In my research, I use structural models and causal inference to study financial 
  
 ## Publications 
 
-### [Refinancing Cross-Subsidies in the Mortgage Market](https://doi.org/10.1016/j.jfineco.2024.103876)
+### Refinancing Cross-Subsidies in the Mortgage Market
 *with [Jack Fisher](https://www.jackwfisher.com), [Alessandro Gavazza](https://www.lse.ac.uk/economics/people/faculty/alessandro-gavazza), [Lu Liu](https://lu-liu.weebly.com) & [Tarun Ramadorai](tarunramadorai.com)* 
 
 **Journal of Financial Economics**, 158:103876 (2024)  
  
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
-[Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491).
+[JFE Journal Version](https://doi.org/10.1016/j.jfineco.2024.103876). [Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491).
 
 <details><summary>Abstract & links ▼</summary>
 <p>
@@ -39,10 +39,12 @@ In household finance markets, inactive households can implicitly cross-subsidize
 </details>
 
 
-### [Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK](https://academic.oup.com/rfs/article/37/3/727/7280157)
+### Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc* 
 
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
+
+[RFS Journal Version](https://academic.oup.com/rfs/article/37/3/727/7280157).
 
 <details><summary>Abstract & links ▼</summary>
 <p>
@@ -57,9 +59,11 @@ Macroprudential policy and the housing market: Evidence from the UK
 </details>
 
 
-### [Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico](https://doi.org/10.1016/j.jinteco.2020.103350)  
+### Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico  
 
 **Journal of International Economics**, 126:103350 (2020)  
+
+[JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350).
 
 📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/3311756/boe-paper-examines-regulation-spillover-effects?ref=search)
 
@@ -95,7 +99,7 @@ This paper provides an overview of evidence from a range of country-specific stu
 
 ## Working Papers
 
-### [Behavioral Lock-In: Housing-Market Taxation with Reference-Dependent Agents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819)
+### Behavioral Lock-In: Housing-Market Taxation with Reference-Dependent Agents
 *with [Cristian Badarinza](https://www.badarinza.net), [Tarun Ramadorai](tarunramadorai.com) & [Juhana Siljander](https://www.juhanasiljander.com)*  
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819). [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/behavioral-lock-in-aggregate-implications-of-reference-dependence-in-the-housing-market). [CEPR](https://cepr.org/publications/dp19123).
@@ -108,7 +112,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 </details>
 
-### [Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets)
+### Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets
 *with [João Cocco](https://www.london.edu/faculty-and-research/faculty-profiles/c/cocco-j-f) & [S. Lakshmi Naaraayanan](https://www.lakshmin.com)*  
 
 [Bank of England](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets). [CEPR](https://cepr.org/publications/dp21347).
@@ -119,7 +123,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 </details>
 
-### [Housing-Consumption Channel of Mortgage Demand](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand)  
+### Housing-Consumption Channel of Mortgage Demand 
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
 
 [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand). [CEPR](https://cepr.org/publications/dp19370).
@@ -130,8 +134,9 @@ We quantify the consumption channel in mortgage demand according to which househ
 
 </details>
 
-### [Housing Booms and Credit Misallocation](https://drive.google.com/file/d/1Z8KRAjF6pg2qF30UfDKYixm64LgTTY26/view)  
+### Housing Booms and Credit Misallocation 
 
+[Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2017/bubbly-equilibria-with-credit-misallocation.pdf). [Updated](https://drive.google.com/file/d/1Z8KRAjF6pg2qF30UfDKYixm64LgTTY26/view).
 
 📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banking/research/2482006/boe-paper-raises-risk-of-bubbly-growth-traps?ref=search)
 
@@ -166,7 +171,7 @@ We use a unique dataset on the population of UK company directors and their firm
 
 ## Working Papers
 
-### [Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions](https://arxiv.org/abs/2605.15217)
+### Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions
 `causal inference` `mechanistic interpretability` `LLM evaluation`
 
 *with [Marcus Buckmann](https://scholar.google.com/citations?user=P8cJYL8AAAAJ&hl=en)* 
