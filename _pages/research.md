@@ -44,7 +44,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
 
-[RFS Journal Version](https://academic.oup.com/rfs/article/37/3/727/7280157).
+[RFS Journal Version](https://academic.oup.com/rfs/article/37/3/727/7280157). [Bank of England](https://www.bankofengland.co.uk/working-paper/2020/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence-from-the-uk). [BSE](https://bse.eu/research/working-papers/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence). [CEPR](https://cepr.org/publications/dp15275).
 
 <details><summary>Abstract & links ▼</summary>
 <p>
