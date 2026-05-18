@@ -161,7 +161,9 @@ We use a unique dataset on the population of UK company directors and their firm
 ### Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions
 `causal inference` `mechanistic interpretability` `LLM evaluation`
 
-*with [Marcus Buckmann](https://scholar.google.com/citations?user=P8cJYL8AAAAJ&hl=en)* — manuscript under review, draft available on request
+*with [Marcus Buckmann](https://scholar.google.com/citations?user=P8cJYL8AAAAJ&hl=en)* 
+
+Pre-print: [arXiv:2605.15217](https://arxiv.org/abs/2605.15217)
 
 ## Work in Progress
 
