@@ -40,7 +40,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 
 
 ### Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK
-*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc* 
+*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
 
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
 
@@ -86,7 +86,8 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
 ## Handbook Chapters
 
 ### [Distributional Consequences of Borrower-Based Macroprudential Tools](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools)
-*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc*
+
+*with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)*
 
 
 Chapter in [Research Handbook of Macroprudential Policy](https://www.e-elgar.com/shop/gbp/research-handbook-of-macroprudential-policy-9781035306206.html?srsltid=AfmBOorGd5DPQ0RGWysqupdDrMn1QlbXYG-DNfWuED-RDgxu0g8birWh). [Bank of England](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools).
@@ -151,7 +152,7 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 ## Selected Work in Progress  
 
 ### Star Charities, Director Networks and Firm Performance  
-*with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), Andrew Blake, [Angus Foulis](https://sites.google.com/site/angusfoulis), Andrew Haldane & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — draft available on request    
+*with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), [Andrew Blake](https://scholar.google.com/citations?hl=en&user=InuHNpEAAAAJ), [Angus Foulis](https://sites.google.com/site/angusfoulis), [Andy Haldane](https://scholar.google.com/citations?hl=en&user=mJDX7W8AAAAJ) & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — draft available on request    
 <details><summary>Abstract ▼</summary>
 
 We use a unique dataset on the population of UK company directors and their firms to study a novel, unexplored territory for social interactions among firm managers: charities. The most central charities comprise of highly skilled directors, and firms associated with these directors manage up to 60% of total assets in the UK economy. We show that a firm whose director joins one of these star charities subsequently experiences faster growth and increased employment. These effects are stronger for younger and smaller firms, and for firms with younger directors. The key mechanism points to skill diffusion: joining a star charity improves the quality of the director's network of co-directors. Our results indicate a pecuniary benefit from associations with star charities via increased social capital.
