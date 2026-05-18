@@ -22,7 +22,7 @@ In my research, I use structural models and causal inference to study financial 
  
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
-📰 **Media**: [Financial Times](https://www.ft.com/content/9c935553-23aa-49f7-869c-a701e21d322e)
+[Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491).
 
 <details><summary>Abstract & links ▼</summary>
 <p>
@@ -85,7 +85,7 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](https://sites.google.com/site/francescrodrigueztous/) & Arzu Uluc*
 
 
-Chapter in [Research Handbook of Macroprudential Policy](https://www.e-elgar.com/shop/gbp/research-handbook-of-macroprudential-policy-9781035306206.html?srsltid=AfmBOorGd5DPQ0RGWysqupdDrMn1QlbXYG-DNfWuED-RDgxu0g8birWh)
+Chapter in [Research Handbook of Macroprudential Policy](https://www.e-elgar.com/shop/gbp/research-handbook-of-macroprudential-policy-9781035306206.html?srsltid=AfmBOorGd5DPQ0RGWysqupdDrMn1QlbXYG-DNfWuED-RDgxu0g8birWh). [Bank of England](https://www.bankofengland.co.uk/working-paper/2025/distributional-consequences-of-borrower-based-macroprudential-tools).
 
 <details><summary>Abstract ▼</summary>
 This paper provides an overview of evidence from a range of country-specific studies on the effectiveness of borrower-based macroprudential tools which limit household leverage at the borrower level. Most studies find these measures effective in breaking the self-enforcing loop between household leverage and house prices. These measures have beneficial effects in terms of lower defaults and less volatile house price dynamics during periods of economic distress. Their effects are heterogeneous across borrower types, with stronger impacts where leverage requirements are higher, such as among first-time buyers. Studies point to restrictions on household leverage having downstream effects on job search, location choice, homeownership, and exposure to income shocks. Looking ahead, further research is required to conduct a comprehensive cost-benefit analysis of these measures, to adapt them to increased use of technology in financial intermediation, and to examine their broader societal effects, including political outcomes and mental health.
@@ -98,6 +98,10 @@ This paper provides an overview of evidence from a range of country-specific stu
 ### [Behavioral Lock-In: Housing-Market Taxation with Reference-Dependent Agents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819)
 *with [Cristian Badarinza](https://www.badarinza.net), [Tarun Ramadorai](tarunramadorai.com) & [Juhana Siljander](https://www.juhanasiljander.com)*  
 
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819). [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/behavioral-lock-in-aggregate-implications-of-reference-dependence-in-the-housing-market). [CEPR](https://cepr.org/publications/dp19123).
+
+📰 **Media**: [Financial Times](https://www.ft.com/content/9c935553-23aa-49f7-869c-a701e21d322e)
+
 <details><summary>Abstract ▼</summary>
 
 We study the aggregate implications of reference dependent and loss averse preferences in the housing market. Motivated by micro evidence, we embed optimizing homeowners with these preferences into a dynamic search and matching equilibrium model with rich heterogeneity and realistic constraints. We assess the model using large and granular administrative data tracking buyers and sellers in the UK housing market; the predictions match regional and time variation in price growth and transaction volumes. The model shows that behavioral frictions in a decentralized market can link nominal quantities with real outcomes; and reveals that the distribution of potential nominal gains in the housing market is a key policy-relevant statistic.
@@ -107,6 +111,8 @@ We study the aggregate implications of reference dependent and loss averse prefe
 ### [Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets)
 *with [João Cocco](https://www.london.edu/faculty-and-research/faculty-profiles/c/cocco-j-f) & [S. Lakshmi Naaraayanan](https://www.lakshmin.com)*  
 
+[Bank of England](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets). [CEPR](https://cepr.org/publications/dp21347).
+
 <details><summary>Abstract ▼</summary>
 
 We study the aggregate implications of reference dependent and loss averse preferences in the housing market. Motivated by micro evidence, we embed optimizing homeowners with these preferences into a dynamic search and matching equilibrium model with rich heterogeneity and realistic constraints. We assess the model using large and granular administrative data tracking buyers and sellers in the UK housing market; the predictions match regional and time variation in price growth and transaction volumes. The model shows that behavioral frictions in a decentralized market can link nominal quantities with real outcomes; and reveals that the distribution of potential nominal gains in the housing market is a key policy-relevant statistic.
@@ -115,6 +121,8 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 ### [Housing-Consumption Channel of Mortgage Demand](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand)  
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
+
+[Bank of England](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand). [CEPR](https://cepr.org/publications/dp19370).
 
 <details><summary>Abstract ▼</summary>
 
