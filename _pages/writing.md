@@ -12,8 +12,10 @@ Policy-relevant writing, blog posts and public commentary on my research.
 
 ## AI & Technology
 
-### [What Machines Taking Over Pricing Means for Central Banks](https://bankunderground.co.uk/2026/04/16/what-machines-taking-over-pricing-means-for-central-banks/)
-*with [Anthony Savagar](https://www.asavagar.com) & Misa Tanaka*  
+### What Machines Taking Over Pricing Means for Central Banks
+
+*with [Anthony Savagar](https://www.asavagar.com) & [Misa Tanaka](https://scholar.google.com/citations?user=Qgk1JL8AAAAJ&hl=en&oi=ao)* 
+
 **Bank Underground**, April 2026
 
 With increased availability of big data and computing power, more firms are adopting algorithmic and AI-powered pricing. This post reviews the implications for monetary policy and central banks.
@@ -25,7 +27,9 @@ With increased availability of big data and computing power, more firms are adop
 ## Economics & Finance
 
 ### [Housing Consumption Channel of Mortgage Demand](https://cepr.org/voxeu/columns/housing-consumption-channel-mortgage-demand)
-*with Gabriel Ahlfeldt & Nikodem Szumilo*  
+
+*with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)*
+
 **VoxEU / CEPR**, Oct 2024
 
 When house prices rise, households borrow more rather than downsize — because housing and non-housing consumption are imperfect substitutes. This column explains the implications for mortgage markets and financial stability.
@@ -33,6 +37,7 @@ When house prices rise, households borrow more rather than downsize — because 
 ---
 
 ### [The Spanish Connection – Consequences of a Macroprudential Regulation in Spain on Mexico](https://bankunderground.co.uk/2018/02/13/the-spanish-connection-consequences-of-a-macroprudential-regulation-in-spain-on-mexico/)
+
 **Bank Underground**, February 2018
 
 A macroprudential regulation in Spain spilled over to Mexico via Spanish bank subsidiaries, contracting household credit and (proxies for) local economic activity — highlighting how regulation in one country can have real consequences far beyond its borders.
