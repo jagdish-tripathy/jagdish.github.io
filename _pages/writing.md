@@ -12,7 +12,7 @@ Policy-relevant writing, blog posts and public commentary on my research.
 
 ## AI & Technology
 
-### What Machines Taking Over Pricing Means for Central Banks
+### [What Machines Taking Over Pricing Means for Central Banks](https://bankunderground.co.uk/2026/04/16/what-machines-taking-over-pricing-means-for-central-banks/)
 
 *with [Anthony Savagar](https://www.asavagar.com) & [Misa Tanaka](https://scholar.google.com/citations?user=Qgk1JL8AAAAJ&hl=en&oi=ao)* 
 
