@@ -13,7 +13,7 @@ Policy-relevant writing, blog posts and public commentary on my research.
 ## AI & Technology
 
 ### [What Machines Taking Over Pricing Means for Central Banks](https://bankunderground.co.uk/2026/04/16/what-machines-taking-over-pricing-means-for-central-banks/)
-*with Anthony Savagar & Misa Tanaka*  
+*with [Anthony Savagar](https://www.asavagar.com) & Misa Tanaka*  
 **Bank Underground**, April 2026
 
 With increased availability of big data and computing power, more firms are adopting algorithmic and AI-powered pricing. This post reviews the implications for monetary policy and central banks.
@@ -35,4 +35,4 @@ When house prices rise, households borrow more rather than downsize — because 
 ### [The Spanish Connection – Consequences of a Macroprudential Regulation in Spain on Mexico](https://bankunderground.co.uk/2018/02/13/the-spanish-connection-consequences-of-a-macroprudential-regulation-in-spain-on-mexico/)
 **Bank Underground**, February 2018
 
-A macroprudential regulation in Spain spilled over to Mexico via Spanish bank subsidiaries, contracting household credit and local economic activity — highlighting how regulation in one country can have real consequences far beyond its borders.
+A macroprudential regulation in Spain spilled over to Mexico via Spanish bank subsidiaries, contracting household credit and (proxies for) local economic activity — highlighting how regulation in one country can have real consequences far beyond its borders.
