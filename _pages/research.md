@@ -63,7 +63,7 @@ Macroprudential policy and the housing market: Evidence from the UK
 
 **Journal of International Economics**, 126:103350 (2020)  
 
-[JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350).
+[JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350). [Bank of England](https://www.bankofengland.co.uk/working-paper/2017/cross-border-effects-of-regulatory-spillovers-evidence-from-mexico).
 
 📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/3311756/boe-paper-examines-regulation-spillover-effects?ref=search)
 
@@ -166,7 +166,9 @@ We use a unique dataset on the population of UK company directors and their firm
 <summary><h2 style="display:inline">AI Research ▼</h2></summary>
 
 ---
+
 *Research applying causal inference methodology to AI model internals and evaluation.*
+
 ---
 
 ## Working Papers
