@@ -57,10 +57,12 @@
   color: #003366 !important;         // darker text for contrast (optional)
 }
 
+/* Clean Details & Summary Reset */
 details > summary {
   list-style: none !important;
   cursor: pointer;
   display: block !important;
+  outline: none;
 }
 details > summary::-webkit-details-marker {
   display: none !important;
@@ -70,7 +72,36 @@ details > summary::marker {
   content: "" !important;
 }
 
-/*Separator between papers*/
+/* 1. Main Category Section Headings (Always show [+] at the end) */
+details summary h2::after {
+  content: " [+]";
+  font-size: 0.75em;
+  font-weight: normal;
+  color: #666;
+  margin-left: 8px;
+}
+
+/* 2. Abstract Dropdowns (Dynamic toggle) */
+/* When closed: show [+] */
+details:not([open]) > summary {
+  content: none; /* Layout safety */
+}
+details:not([open]) > summary::after {
+  content: " [+]";
+  color: #003366; /* Matching your theme link color accent */
+  font-weight: 500;
+  margin-left: 4px;
+}
+
+/* When open: switch to [-] */
+details[open] > summary::after {
+  content: " [-]";
+  color: #666;
+  font-weight: 500;
+  margin-left: 4px;
+}
+
+/* --- Keep your paper-divider style here --- */
 hr.paper-divider {
   border: none !important;
   border-top: 1px dashed #d0d0d0 !important;
@@ -78,4 +109,3 @@ hr.paper-divider {
   height: 0 !important;
   margin: 1.2em 0 !important;
 }
-
