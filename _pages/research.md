@@ -105,7 +105,7 @@ This paper provides an overview of evidence from a range of country-specific stu
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819). [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/behavioral-lock-in-aggregate-implications-of-reference-dependence-in-the-housing-market). [CEPR](https://cepr.org/publications/dp19123).
 
-📰 **Media**: [Financial Times](https://www.ft.com/content/9c935553-23aa-49f7-869c-a701e21d322e) · [The Times](https://www.thetimes.com/money/mortgages/article/britain-house-price-delusion-market-profit-p8kk35vxt)
+📰 **Media**: [Financial Times](https://www.ft.com/content/9c935553-23aa-49f7-869c-a701e21d322e) · [The Economist](https://www.economist.com/finance-and-economics/2026/05/20/economics-lessons-from-home-depot?giftId=YTE0MWY1ZTEtNjI2NC00Y2Y3LThjYjQtOGU0MzllYzY2OGEw&utm_campaign=gifted_article) · [The Times](https://www.thetimes.com/money/mortgages/article/britain-house-price-delusion-market-profit-p8kk35vxt)
 
 <details><summary>Abstract ▼</summary>
 
