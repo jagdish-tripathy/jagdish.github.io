@@ -26,7 +26,7 @@ In my research, I use structural models and causal inference to study financial 
 
 <details>
 <summary>Abstract</summary>
-<p>
+ <p>
 In household finance markets, inactive households can implicitly cross-subsidize active households who promptly respond to financial incentives. We assess the magnitude and distribution of cross-subsidies in the mortgage market. To do so, we build a model of household mortgage refinancing and structurally estimate it on rich administrative data on the stock of outstanding mortgages in the UK. We estimate sizeable cross-subsidies from relatively poorer households and those located in less-wealthy areas towards richer households and those located in wealthier areas. Our work highlights how the design of household finance markets can contribute to wealth inequality.
 </p>
 </details>
@@ -42,7 +42,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 
 <details>
 <summary>Abstract</summary>
-<p>
+ <p>
 We analyze the distributional effects of macroprudential policy on mortgage cycles by exploiting the U.K. mortgage register and a 2014 15% limit imposed on lenders' high loan-to-income (LTI) mortgages. Constrained lenders issue fewer and more expensive high-LTI mortgages, with stronger effects on low-income borrowers. Unconstrained lenders strongly substitute high-LTI loans in local areas with higher constrained lender presence, but not high-LTI loans to low-income borrowers—consistent with adverse selection problems—implying lower overall credit to low-income borrowers. Consistently, policy-affected areas experience lower house price growth postregulation and, following the Brexit referendum (negative aggregate shock), better house price growth and lower mortgage defaults for low-income borrowers.
 </p>
 <p>
