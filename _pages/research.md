@@ -35,6 +35,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 </p>
 </details>
 
+
 <hr class="paper-divider">
 
 **Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK**
