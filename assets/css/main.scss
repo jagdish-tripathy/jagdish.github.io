@@ -5,36 +5,18 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-/* Force larger avatar - overriding all MM styles */
+/* Avatar */
 .sidebar .author__avatar {
-  display: table-cell !important;
-  vertical-align: top !important;
   width: 200px !important;
   height: 200px !important;
 }
-
 .sidebar .author__avatar img {
   max-width: 200px !important;
   width: 200px !important;
   height: 200px !important;
-  border-radius: 15px !important; /* Less rounded, more square */
+  border-radius: 10px !important;
   object-fit: cover !important;
 }
-
-/* Alternative: Make it completely square */
-.author__avatar img {
-  border-radius: 10px !important; /* Square with slight rounding */
-}
-
-/* Adjust spacing around the larger avatar */
-.sidebar .author__content {
-  display: none !important;
-  vertical-align: top !important;
-  padding-left: 25px !important;
-  padding-right: 25px !important;
-}
-
-/* Mobile adjustments */
 @media (max-width: 768px) {
   .sidebar .author__avatar,
   .sidebar .author__avatar img {
@@ -43,7 +25,7 @@
   }
 }
 
-/* Change the site title (top-left header) */
+/* Site title */
 .masthead__inner-wrap .site-title {
   font-size: 2.7em !important;
   font-weight: 900 !important;
@@ -51,17 +33,26 @@
   line-height: 1.1;
 }
 
-/* Banner colour at the bottom */
+/* Footer */
 .page__footer {
-  background: #e6f2ff !important;   // soft light blue
-  color: #003366 !important;         // darker text for contrast (optional)
+  background: #e6f2ff !important;
+  color: #003366 !important;
 }
 
-/* Remove all triangle markers */
+/* Sidebar content */
+.sidebar .author__content {
+  display: none !important;
+}
+
+/* ============================================
+   DETAILS / SUMMARY — triangle removal + [+]
+   ============================================ */
+
+/* Step 1: kill the triangle every way possible */
 details > summary {
-  list-style: none !important;
-  cursor: pointer;
   display: block !important;
+  cursor: pointer;
+  outline: none;
 }
 details > summary::-webkit-details-marker {
   display: none !important;
@@ -70,14 +61,24 @@ details > summary::marker {
   content: "" !important;
 }
 
-/* Abstract [+] / [-] toggle */
-details:not([open]) > summary::after {
-  content: "[+] ";
+/* Step 2: [+] / [-] for abstract-level details
+   (these are plain <summary>Abstract</summary> with no h2 inside) */
+details:not([open]) > summary:not(:has(h2))::after {
+  content: " [+]";
   color: #003366;
   font-weight: 500;
 }
-details[open] > summary::after {
-  content: "[-] ";
+details[open] > summary:not(:has(h2))::after {
+  content: " [-]";
   color: #666;
   font-weight: 500;
+}
+
+/* Step 3: section headings (summary contains h2) — no [+], just styled */
+details > summary:has(h2) {
+  list-style: none !important;
+}
+details > summary h2 {
+  display: inline !important;
+  cursor: pointer;
 }
