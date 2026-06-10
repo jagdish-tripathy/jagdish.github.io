@@ -18,7 +18,7 @@ In my research, I use structural models and causal inference to study financial 
 **Refinancing Cross-Subsidies in the Mortgage Market**
 *with [Jack Fisher](https://www.jackwfisher.com), [Alessandro Gavazza](https://www.lse.ac.uk/economics/people/faculty/alessandro-gavazza), [Lu Liu](https://lu-liu.weebly.com) & [Tarun Ramadorai](tarunramadorai.com)* 
 
-**Journal of Financial Economics**, 158:103876 (2024)  
+*Journal of Financial Economics*, 158:103876 (2024)  
  
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
@@ -42,7 +42,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 **Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK**
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
 
-**Review of Financial Studies**, 37(3), 727-760 (2024)  
+*Review of Financial Studies*, 37(3), 727-760 (2024)  
 
 [RFS Journal Version](https://academic.oup.com/rfs/article/37/3/727/7280157). [Bank of England](https://www.bankofengland.co.uk/working-paper/2020/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence-from-the-uk). [BSE](https://bse.eu/research/working-papers/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence). [CEPR](https://cepr.org/publications/dp15275).
 
@@ -61,7 +61,7 @@ Macroprudential policy and the housing market: Evidence from the UK
 
 **Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico**  
 
-**Journal of International Economics**, 126:103350 (2020)  
+*Journal of International Economics*, 126:103350 (2020)  
 
 [JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350). [Bank of England](https://www.bankofengland.co.uk/working-paper/2017/cross-border-effects-of-regulatory-spillovers-evidence-from-mexico).
 
