@@ -22,9 +22,7 @@ In my research, I use structural models and causal inference to study financial 
  
 🏆 **Jensen First Prize**: Best Corporate Finance Paper, Journal of Financial Economics 🏆
 
-[JFE Journal Version](https://doi.org/10.1016/j.jfineco.2024.103876). [Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491).
-
-[Code + Data](https://data.mendeley.com/datasets/hy29cy2v9f/1). [Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0304405X24000990-mmc1.pdf)
+[JFE Journal Version](https://doi.org/10.1016/j.jfineco.2024.103876). [Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491). [Code + Data](https://data.mendeley.com/datasets/hy29cy2v9f/1). [Online Appendix](https://ars.els-cdn.com/content/image/1-s2.0-S0304405X24000990-mmc1.pdf).
 
 <details>
 <summary>Abstract</summary>
@@ -41,7 +39,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 [RFS Journal Version](https://academic.oup.com/rfs/article/37/3/727/7280157). [Bank of England](https://www.bankofengland.co.uk/working-paper/2020/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence-from-the-uk). [BSE](https://bse.eu/research/working-papers/macroprudential-policy-mortgage-cycles-and-distributional-effects-evidence). [CEPR](https://cepr.org/publications/dp15275).
 
 <details>
-<summary>Abstract & links</summary>
+<summary>Abstract</summary>
 <p>
 We analyze the distributional effects of macroprudential policy on mortgage cycles by exploiting the U.K. mortgage register and a 2014 15% limit imposed on lenders' high loan-to-income (LTI) mortgages. Constrained lenders issue fewer and more expensive high-LTI mortgages, with stronger effects on low-income borrowers. Unconstrained lenders strongly substitute high-LTI loans in local areas with higher constrained lender presence, but not high-LTI loans to low-income borrowers—consistent with adverse selection problems—implying lower overall credit to low-income borrowers. Consistently, policy-affected areas experience lower house price growth postregulation and, following the Brexit referendum (negative aggregate shock), better house price growth and lower mortgage defaults for low-income borrowers.
 </p>
@@ -58,11 +56,10 @@ Macroprudential policy and the housing market: Evidence from the UK
 
 *Journal of International Economics*, 126:103350 (2020)  
 
-[JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350). [Bank of England](https://www.bankofengland.co.uk/working-paper/2017/cross-border-effects-of-regulatory-spillovers-evidence-from-mexico).
+[JIE Journal Version](https://doi.org/10.1016/j.jinteco.2020.103350). [Bank of England](https://www.bankofengland.co.uk/working-paper/2017/cross-border-effects-of-regulatory-spillovers-evidence-from-mexico). [Code + Data](https://drive.google.com/file/d/1JzzC1C_7f0l8bkrik19SCCH3BGkP7iMc/view). [Online Appendix](https://drive.google.com/file/d/1waE_S2uf_AaHH9Jc4tvylVJcimOKr4QH/view).
 
 📰 **Media**: [CentralBanking.com](https://www.centralbanking.com/central-banks/financial-stability/macro-prudential/3311756/boe-paper-examines-regulation-spillover-effects?ref=search)
 
-[Code + Data](https://drive.google.com/file/d/1JzzC1C_7f0l8bkrik19SCCH3BGkP7iMc/view). [Online Appendix](https://drive.google.com/file/d/1waE_S2uf_AaHH9Jc4tvylVJcimOKr4QH/view).
 
 <details>
 <summary>Abstract</summary>
