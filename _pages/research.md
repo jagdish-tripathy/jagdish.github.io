@@ -35,9 +35,6 @@ In household finance markets, inactive households can implicitly cross-subsidize
 </p>
 </details>
 
-
-<hr class="paper-divider">
-
 **Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK**
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
 
@@ -143,10 +140,6 @@ We quantify the consumption channel in mortgage demand according to which househ
 <summary>Abstract</summary>
 This paper studies the effect of asset bubbles on economic growth in the presence of financial constraints and heterogeneous projects. I consider an economy with two sectors which differ in their productivity and level of financial constraints. In this framework, asset bubbles in credit markets raise interest rates and lower aggregate investment productivity by directing financial resources away from the sector with higher productivity. Further, they may lead to steady states with low investment productivity and welfare, creating bubbly growth-traps.
 </details>
-
----
-
-## Selected Work in Progress   
 
 **Star Charities, Director Networks and Firm Performance** 
 *with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), [Andrew Blake](https://scholar.google.com/citations?hl=en&user=InuHNpEAAAAJ), [Angus Foulis](https://sites.google.com/site/angusfoulis), [Andy Haldane](https://scholar.google.com/citations?hl=en&user=mJDX7W8AAAAJ) & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — draft available on request     
