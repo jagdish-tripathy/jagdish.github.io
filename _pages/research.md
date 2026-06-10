@@ -24,7 +24,7 @@ In my research, I use structural models and causal inference to study financial 
 
 [JFE Journal Version](https://doi.org/10.1016/j.jfineco.2024.103876). [Bank of England](https://www.bankofengland.co.uk/working-paper/2021/refinancing-cross-subsidies-in-the-mortgage-market). [CEPR](https://cepr.org/publications/dp17491).
 
-<details><summary>Abstract & links ▼</summary>
+<details><summary><strong>Abstract [+]</strong></summary>
 <p>
 In household finance markets, inactive households can implicitly cross-subsidize active households who promptly respond to financial incentives. We assess the magnitude and distribution of cross-subsidies in the mortgage market. To do so, we build a model of household mortgage refinancing and structurally estimate it on rich administrative data on the stock of outstanding mortgages in the UK. We estimate sizeable cross-subsidies from relatively poorer households and those located in less-wealthy areas towards richer households and those located in wealthier areas. Our work highlights how the design of household finance markets can contribute to wealth inequality. 
 </p>
