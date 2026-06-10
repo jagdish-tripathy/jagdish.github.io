@@ -15,7 +15,7 @@ In my research, I use structural models and causal inference to study financial 
  
 ## Publications 
 
-### Refinancing Cross-Subsidies in the Mortgage Market
+**Refinancing Cross-Subsidies in the Mortgage Market**
 *with [Jack Fisher](https://www.jackwfisher.com), [Alessandro Gavazza](https://www.lse.ac.uk/economics/people/faculty/alessandro-gavazza), [Lu Liu](https://lu-liu.weebly.com) & [Tarun Ramadorai](tarunramadorai.com)* 
 
 **Journal of Financial Economics**, 158:103876 (2024)  
@@ -39,7 +39,7 @@ In household finance markets, inactive households can implicitly cross-subsidize
 </details>
 
 
-### Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK
+**Macroprudential Policy, Mortgage Cycles and Distributional Effects: Evidence from the UK**
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)* 
 
 **Review of Financial Studies**, 37(3), 727-760 (2024)  
@@ -59,7 +59,7 @@ Macroprudential policy and the housing market: Evidence from the UK
 </details>
 
 
-### Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico  
+**Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico**  
 
 **Journal of International Economics**, 126:103350 (2020)  
 
@@ -85,7 +85,7 @@ This paper studies the spillover of a macroprudential regulation in Spain to the
 
 ## Handbook Chapters
 
-### Distributional Consequences of Borrower-Based Macroprudential Tools
+**Distributional Consequences of Borrower-Based Macroprudential Tools**
 
 *with [José-Luis Peydró](https://cepr.org/about/people/jose-luis-peydro), [Francesc Rodríguez-Tous](frtous.github.io) & [Arzu Uluc](https://scholar.google.com/citations?hl=en&user=DQK_tsMAAAAJ)*
 
@@ -100,7 +100,7 @@ This paper provides an overview of evidence from a range of country-specific stu
 
 ## Working Papers
 
-### Behavioral Lock-In: Housing-Market Taxation with Reference-Dependent Agents
+**Behavioral Lock-In: Housing-Market Taxation with Reference-Dependent Agents**
 *with [Cristian Badarinza](https://www.badarinza.net), [Tarun Ramadorai](tarunramadorai.com) & [Juhana Siljander](https://www.juhanasiljander.com)*  
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819). [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/behavioral-lock-in-aggregate-implications-of-reference-dependence-in-the-housing-market). [CEPR](https://cepr.org/publications/dp19123).
@@ -113,7 +113,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 </details>
 
-### Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets
+**Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets**
 *with [João Cocco](https://www.london.edu/faculty-and-research/faculty-profiles/c/cocco-j-f) & [S. Lakshmi Naaraayanan](https://www.lakshmin.com)*  
 
 [Bank of England](https://www.bankofengland.co.uk/working-paper/2026/interest-rate-fee-substitution-credit-facilitation-in-segmented-markets). [CEPR](https://cepr.org/publications/dp21347).
@@ -124,7 +124,7 @@ We study the aggregate implications of reference dependent and loss averse prefe
 
 </details>
 
-### Housing-Consumption Channel of Mortgage Demand 
+**Housing-Consumption Channel of Mortgage Demand**
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
 
 [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/housing-consumption-channel-of-mortgage-demand). [CEPR](https://cepr.org/publications/dp19370).
@@ -135,7 +135,7 @@ We quantify the consumption channel in mortgage demand according to which househ
 
 </details>
 
-### Housing Booms and Credit Misallocation 
+**Housing Booms and Credit Misallocation**
 
 [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2017/bubbly-equilibria-with-credit-misallocation.pdf). [Updated](https://drive.google.com/file/d/1Z8KRAjF6pg2qF30UfDKYixm64LgTTY26/view).
 
@@ -151,7 +151,7 @@ This paper studies the effect of asset bubbles on economic growth in the presenc
 
 ## Selected Work in Progress  
 
-### Star Charities, Director Networks and Firm Performance  
+**Star Charities, Director Networks and Firm Performance** 
 *with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), [Andrew Blake](https://scholar.google.com/citations?hl=en&user=InuHNpEAAAAJ), [Angus Foulis](https://sites.google.com/site/angusfoulis), [Andy Haldane](https://scholar.google.com/citations?hl=en&user=mJDX7W8AAAAJ) & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — draft available on request    
 <details><summary>Abstract ▼</summary>
 
@@ -174,16 +174,21 @@ We use a unique dataset on the population of UK company directors and their firm
 
 ## Working Papers
 
-### Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions
+**Fair Outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions**
 `causal inference` `mechanistic interpretability` `LLM evaluation`
 
 *with [Marcus Buckmann](https://scholar.google.com/citations?user=P8cJYL8AAAAJ&hl=en)* 
 
 Pre-print: [arXiv:2605.15217](https://arxiv.org/abs/2605.15217)
 
+<details><summary>Abstract ▼</summary>
+
+Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of open-weight models for mortgage underwriting using matched applications that differ only in racially-associated names and reveal a critical disconnect: models show no output-level bias, yet retain and amplify demographic representations across model layers. Through activation steering and novel cross-layer interventions, we demonstrate that this suppressed information is decision-relevant: when reinjected at critical layers, it produces near-complete decision reversals. Critically, this latent bias is asymmetric - steering interventions affect decisions in one demographic direction, while producing minimal effects in reverse - and susceptible to adversarial prompt engineering and parameter-efficient fine-tuning. These findings demonstrate that behavioural audits focused on outputs are insufficient and motivate dual-layer testing frameworks combining output evaluation with representational analysis for AI governance in high-stakes decisions.
+</details>
+
 ## Work in Progress
 
-### Measuring the Effect of AI Adoption on Firm Productivity using Microdata
+**Measuring the Effect of AI Adoption on Firm Productivity using Microdata**
 `causal inference` `AI adoption` `firm productivity`
 
 </details>
