@@ -11,8 +11,9 @@ In my research, I use structural models and causal inference to study financial 
 ---
 
 <details markdown="1">
-<summary><h2 style="display:inline">Economics & Finance ▼</h2></summary>
  
+<summary><h2 style="display:inline">Economics &amp; Finance</h2></summary>
+
 ## Publications 
 
 **Refinancing Cross-Subsidies in the Mortgage Market**
