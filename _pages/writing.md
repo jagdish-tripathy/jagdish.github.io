@@ -12,7 +12,7 @@ Policy-relevant writing, blog posts and public commentary on my research.
 
 ## AI & Technology
 
-### [What Machines Taking Over Pricing Means for Central Banks](https://bankunderground.co.uk/2026/04/16/what-machines-taking-over-pricing-means-for-central-banks/)
+[What Machines Taking Over Pricing Means for Central Banks](https://bankunderground.co.uk/2026/04/16/what-machines-taking-over-pricing-means-for-central-banks/)
 
 *with [Anthony Savagar](https://www.asavagar.com) & [Misa Tanaka](https://scholar.google.com/citations?user=Qgk1JL8AAAAJ&hl=en&oi=ao)* 
 
@@ -26,7 +26,7 @@ With increased availability of big data and computing power, more firms are adop
 
 ## Economics & Finance
 
-### [Housing Consumption Channel of Mortgage Demand](https://cepr.org/voxeu/columns/housing-consumption-channel-mortgage-demand)
+[Housing Consumption Channel of Mortgage Demand](https://cepr.org/voxeu/columns/housing-consumption-channel-mortgage-demand)
 
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)*
 
@@ -36,7 +36,7 @@ When house prices rise, households borrow more rather than downsize — because 
 
 ---
 
-### [The Spanish Connection – Consequences of a Macroprudential Regulation in Spain on Mexico](https://bankunderground.co.uk/2018/02/13/the-spanish-connection-consequences-of-a-macroprudential-regulation-in-spain-on-mexico/)
+[The Spanish Connection – Consequences of a Macroprudential Regulation in Spain on Mexico](https://bankunderground.co.uk/2018/02/13/the-spanish-connection-consequences-of-a-macroprudential-regulation-in-spain-on-mexico/)
 
 **Bank Underground**, February 2018
 
