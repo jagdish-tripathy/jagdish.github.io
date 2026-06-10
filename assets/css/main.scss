@@ -63,12 +63,12 @@ details > summary::marker {
 
 /* Step 2: [+] / [-] for abstract-level details
    (these are plain <summary>Abstract</summary> with no h2 inside) */
-details:not([open]) > summary:not(:has(h2))::after {
+details:not([open]) > summary::after {
   content: " [+]";
   color: #003366;
   font-weight: 500;
 }
-details[open] > summary:not(:has(h2))::after {
+details[open] > summary::after {
   content: " [-]";
   color: #666;
   font-weight: 500;
