@@ -53,6 +53,8 @@ Macroprudential policy and the housing market: Evidence from the UK
 </p>
 </details>
 
+<div style="border-top: 1px dashed #ccc; margin: 1.5em 0;"></div>
+
 
 **Cross-Border Effects of Regulatory Spillovers – Evidence from Mexico**  
 
@@ -101,6 +103,8 @@ This paper provides an overview of evidence from a range of country-specific stu
 We study the aggregate implications of reference dependent and loss averse preferences in the housing market. Motivated by micro evidence, we embed optimizing homeowners with these preferences into a dynamic search and matching equilibrium model with rich heterogeneity and realistic constraints. We assess the model using large and granular administrative data tracking buyers and sellers in the UK housing market; the predictions match regional and time variation in price growth and transaction volumes. The model shows that behavioral frictions in a decentralized market can link nominal quantities with real outcomes; and reveals that the distribution of potential nominal gains in the housing market is a key policy-relevant statistic.
 </details>
 
+<div style="border-top: 1px dashed #ccc; margin: 1.5em 0;"></div>
+
 **Interest-rate Fee Substitution: Credit Facilitation in Segmented Markets**
 *with [João Cocco](https://www.london.edu/faculty-and-research/faculty-profiles/c/cocco-j-f) & [S. Lakshmi Naaraayanan](https://www.lakshmin.com)*  
 
@@ -110,6 +114,8 @@ We study the aggregate implications of reference dependent and loss averse prefe
 <summary>Abstract</summary>
 We study the aggregate implications of reference dependent and loss averse preferences in the housing market. Motivated by micro evidence, we embed optimizing homeowners with these preferences into a dynamic search and matching equilibrium model with rich heterogeneity and realistic constraints. We assess the model using large and granular administrative data tracking buyers and sellers in the UK housing market; the predictions match regional and time variation in price growth and transaction volumes. The model shows that behavioral frictions in a decentralized market can link nominal quantities with real outcomes; and reveals that the distribution of potential nominal gains in the housing market is a key policy-relevant statistic.
 </details>
+
+<div style="border-top: 1px dashed #ccc; margin: 1.5em 0;"></div>
 
 **Housing-Consumption Channel of Mortgage Demand**
 *with [Gabriel Ahlfeldt](https://www.ahlfeldt.com) & [Nikodem Szumilo](https://sites.google.com/view/nikoszumilo/home)* 
@@ -121,6 +127,8 @@ We study the aggregate implications of reference dependent and loss averse prefe
 We quantify the consumption channel in mortgage demand according to which households borrow more in response to house price increases since housing and non-housing consumption are imperfect substitutes. To identify the consumption channel, we take a structural approach to mortgage demand and supply, exploiting exogenous variation in house price growth and a unique matched house price-mortgage data set. We feed our estimate of the elasticity of mortgage borrowing with respect to house prices of 0.82 into a counterfactual analysis of the general equilibrium of housing and mortgage markets. We find that without the consumption channel, mortgage borrowing in the UK would have increased by over 50% less since the 1990s and house price growth would have been lower by 31%.
 </details>
 
+<div style="border-top: 1px dashed #ccc; margin: 1.5em 0;"></div>
+
 **Housing Booms and Credit Misallocation**
 
 [Bank of England](https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2017/bubbly-equilibria-with-credit-misallocation.pdf). [Updated](https://drive.google.com/file/d/1Z8KRAjF6pg2qF30UfDKYixm64LgTTY26/view).
@@ -131,6 +139,8 @@ We quantify the consumption channel in mortgage demand according to which househ
 <summary>Abstract</summary>
 This paper studies the effect of asset bubbles on economic growth in the presence of financial constraints and heterogeneous projects. I consider an economy with two sectors which differ in their productivity and level of financial constraints. In this framework, asset bubbles in credit markets raise interest rates and lower aggregate investment productivity by directing financial resources away from the sector with higher productivity. Further, they may lead to steady states with low investment productivity and welfare, creating bubbly growth-traps.
 </details>
+
+<div style="border-top: 1px dashed #ccc; margin: 1.5em 0;"></div>
 
 **Star Charities, Director Networks and Firm Performance** 
 *with [Saleem Bahaj](https://sites.google.com/site/saleembahaj/home), [Andrew Blake](https://scholar.google.com/citations?hl=en&user=InuHNpEAAAAJ), [Angus Foulis](https://sites.google.com/site/angusfoulis), [Andy Haldane](https://scholar.google.com/citations?hl=en&user=mJDX7W8AAAAJ) & [Gábor Pintér](https://sites.google.com/site/gaborpinter0/)* — draft available on request     
@@ -165,6 +175,8 @@ Pre-print: [arXiv:2605.15217](https://arxiv.org/abs/2605.15217)
 <summary>Abstract</summary>
 Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of open-weight models for mortgage underwriting using matched applications that differ only in racially-associated names and reveal a critical disconnect: models show no output-level bias, yet retain and amplify demographic representations across model layers. Through activation steering and novel cross-layer interventions, we demonstrate that this suppressed information is decision-relevant: when reinjected at critical layers, it produces near-complete decision reversals. Critically, this latent bias is asymmetric - steering interventions affect decisions in one demographic direction, while producing minimal effects in reverse - and susceptible to adversarial prompt engineering and parameter-efficient fine-tuning. These findings demonstrate that behavioural audits focused on outputs are insufficient and motivate dual-layer testing frameworks combining output evaluation with representational analysis for AI governance in high-stakes decisions.
 </details>
+
+---
 
 ## Work in Progress
 
