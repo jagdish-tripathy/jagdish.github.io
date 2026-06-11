@@ -92,7 +92,7 @@ This paper provides an overview of evidence from a range of country-specific stu
 ## Working Papers
 
 **Behavioral Lock-In: Housing Markets with Reference Dependent Agents**
-*with [Cristian Badarinza](https://www.badarinza.net), [Tarun Ramadorai](tarunramadorai.com) & [Juhana Siljander](https://www.juhanasiljander.com)*  
+*with [Cristian Badarinza](https://www.frankfurt-school.de/en/research-and-faculty/faculty/faculty-directory/cristian-badarinza), [Tarun Ramadorai](tarunramadorai.com) & [Juhana Siljander](https://www.juhanasiljander.com)*  
 
 [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3960819). [Bank of England](https://www.bankofengland.co.uk/working-paper/2024/behavioral-lock-in-aggregate-implications-of-reference-dependence-in-the-housing-market). [CEPR](https://cepr.org/publications/dp19123).
 
